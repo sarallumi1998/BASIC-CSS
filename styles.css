@@ -1,0 +1,52 @@
+h2{
+    color:greenyellow;
+    text-align: center;
+}
+body{
+    background-color: blueviolet;
+}
+p{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom:30px;
+}
+
+p.dotted {
+    outline-style: dotted;
+    outline-color: antiquewhite;
+}
+
+p.dashed {
+    outline-style: dashed;
+    outline-color:aqua;
+}
+
+p.solid {
+    outline-style: solid;
+    outline-color:blue;
+}
+
+p.double {
+    outline-style: double;
+    outline-color: red;
+}
+
+p.groove {
+    outline-style: groove;
+    outline-color: wheat;
+}
+
+p.ridge {
+    outline-style: ridge;
+    outline-color: yellow;
+}
+
+p.inset {
+    outline-style: inset;
+    outline-color:red;
+}
+
+p.outset {
+    outline-style: outset;
+    outline-color: green;
+}
